@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<employees>
+<employee1 type="fulltime">
+<id>1</id>
+<name>sadik</name>
+<salary>129999</salary>
+</employee1>
+<employee2 type="parttime">
+<id>2</id>
+<name>sai</name>
+<salary>23000</salary>
+</employee2>
+</employees>
